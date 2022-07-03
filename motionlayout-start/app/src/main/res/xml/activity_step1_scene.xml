@@ -9,6 +9,7 @@
         motion:duration="1000">
        <KeyFrameSet>
        </KeyFrameSet>
+        <OnClick motion:clickAction="toggle" />
     </Transition>
 
     <ConstraintSet android:id="@+id/start">
